@@ -17,7 +17,7 @@
     <country>United States of America</country>
   </recipient>
   
-  <salutation>Dear Mr. Quinn III:</saluation>
+  <greeting>Dear Mr. Quinn III:</greeting>
   
   <messagebody>
     <firstparagraph>I have some things to say.</firstpapragraph>
@@ -25,5 +25,11 @@
     <thirdparagraph>To be frank, there aren't enough sentences in these paragraphs.</thirdparagraph>
     <fourthparagraph>Poetic license will have to prevail for now. I will work on this further as my learning continues.</fourthparagraph>
   </messagebody>
+  
+  <salutation>Sincerely,</salutation>
+  
+  <signature>Elliott Marquis</signature>
+  
+<page>
   
   
