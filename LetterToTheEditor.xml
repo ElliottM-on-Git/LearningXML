@@ -10,14 +10,20 @@
   
   <date>February 28, 2019</date>
   
-  <recipient><recipientname>Mr. Quinn III</recipientname>
-    <recipientaddress>88 Eighty-Eight St.</recipientaddress>
-    <recipientcity>West Memphis,</recipientcity> <recipientstate>AR</recipientstate> <recipientzip>98987</recipientzip>
-    <recipientcountry>United States of America</recipientcountry>
+  <recipient>
+    <name>Mr. Quinn III</name>
+    <address>88 Eighty-Eight St.</address>
+    <city>West Memphis,</city> <state>AR</state> <zip>98987</zip>
+    <country>United States of America</country>
   </recipient>
   
   <salutation>Dear Mr. Quinn III:</saluation>
   
-  <firstparagraph>I have some things to say....</firstpapragraph>
+  <messagebody>
+    <firstparagraph>I have some things to say.</firstpapragraph>
+    <secondparagraph>Rock climbing is difficult. So are the martial arts, free diving, and competitive word association.</secondparagraph>
+    <thirdparagraph>To be frank, there aren't enough sentences in these paragraphs.</thirdparagraph>
+    <fourthparagraph>Poetic license will have to prevail for now. I will work on this further as my learning continues.</fourthparagraph>
+  </messagebody>
   
   
